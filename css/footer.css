@@ -1,0 +1,17 @@
+.page-footer {
+  background-color: var(--navy-blue);
+}
+
+.footer-description {
+  color: var(--cloud);
+}
+
+.footer-logo {
+  font-family: var(--second-family);
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  color: var(--cloud);
+}
