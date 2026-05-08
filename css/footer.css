@@ -7,11 +7,5 @@
 }
 
 .footer-logo {
-  font-family: var(--second-family);
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.33;
-  letter-spacing: 0.03em;
   color: var(--cloud);
 }
